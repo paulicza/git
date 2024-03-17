@@ -1,2 +1,2 @@
-to je plik readme
+to je plik readme, fjk
 to je nowa funkcjonalnosc
