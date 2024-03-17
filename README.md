@@ -1,2 +1,4 @@
-to je plik readme
+
+to je plik readme, nieprawdaż?
 to je nowa funkcjonalnosc
+
